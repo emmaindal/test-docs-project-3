@@ -1,6 +1,6 @@
 ## test-docs
 
-this is a test
+this is a test that updates automatically 🥳
 
 ## Getting started
 
